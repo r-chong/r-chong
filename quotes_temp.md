@@ -4,3 +4,4 @@
 ['Pain is the weakness leaving the body','US Marines'],
 ['All man's miseries derive from not being able to sit quietly in a room alone.','Blaise Pascal'],
 ['It is more important that your peers know how your code works than your computer.','Uncle Bob'],
+['Most people overestimate how much they can do in a day and underestimate what they're capable of in a year.','Gates' Law(Modified)'], 
