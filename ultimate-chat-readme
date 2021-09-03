@@ -1,0 +1,29 @@
+# Ultimate Genius Chat: a fresh start
+
+The purpose of _Ultimate Genius Chat_ is to build *the* best thing that we can build, with the latest and greatest tools and libraries.<br>
+Clean code. Function-ize. 
+Test, test, test. 
+Read the documentation.
+
+There. Now that we've gotten that out of the way,
+
+# Major Changes:
+- Websockets. 
+- Node.js.
+- End-to-end encryption
+- Mobile-first UI mindset
+- Flexbox
+- SCSS
+and more...
+
+*"The only way to go fast is to go well... Don’t get slower as the project progresses. Adding new features to the system should not slow you down."*<br>
+-Uncle Bob
+
+---
+
+### Resources
+
+[Websocket Chat](https://medium.com/@martin.sikora/node-js-websocket-simple-chat-tutorial-2def3a841b61)<br>
+[Possible encryption system](https://www.cossacklabs.com/building-secure-chat)<br>
+[Flexbox chat example UI](https://morioh.com/p/176939e1bf8f)<br>
+[Flexbox SASS tutorial](https://www.toptal.com/sass/css3-flexbox-sass-grid-tutorial)<br>
