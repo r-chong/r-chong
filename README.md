@@ -1,4 +1,4 @@
-# 8 reasons why you should hire me
+## 8 reasons why you should hire me
 
 0. I will read all of your emails twice before replying
 1. I have some pretty good ideas
