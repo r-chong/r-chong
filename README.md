@@ -5,5 +5,5 @@ I'm Reese Chong, an aspiring CS major from Canada.
 - Some of my finished projects include [Genius Chat](https://github.com/r-chong/chat), [Quibble](https://github.com/mh-anwar/quibble), and various python games!
 - 🌱 I'm currently learning **Lua**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=r-chong&count_private=true&theme=tokyonight&hide_border=true)](#)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r-chong&hide_border=true&background=1A1B27&currStreakNum=DDDDDD&sideNums=FFFFFFCF&dates=FFFFFF61&sideLabels=FFFFFFAE)](#)
+ [<img align="left" src="https://github-readme-stats.vercel.app/api?username=r-chong&show_icons=true&count_private=true&hide_border=true&theme=github_dark" height="170" />](#)
+ [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-chong&hide_border=true&layout=compact&theme=github_dark" height="170" />](#)
