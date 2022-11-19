@@ -1,7 +1,7 @@
 # Hello there! 👋
 I'm Reese, an aspiring CS major from Canada.
 
-- I'm working on my personal website, competitive coding problems, and "Ultimate GC".
+- I'm currently working on my personal website, competitive coding problems, and "Ultimate GC".
 - Some of my finished projects include a [discord-esque chat website](https://github.com/r-chong/chat), [a winning hackathon submission](https://quibble-rh.herokuapp.com), and various python games.
 - 🌱 I'm currently learning **Python 3** and **Lua**
 
