@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hello there! 👋
 I'm Reese, an aspiring CS major from Canada.
 
 - I'm working on my personal website, competitive coding problems, and "Ultimate GC".
