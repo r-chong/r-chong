@@ -1,7 +1,7 @@
 # Hello! 👋
 I'm Reese, a high school student from Canada.
 
-- I'm currently working on competitive coding problems
+- I'm currently working on React Apps.
 - Some of my finished projects include a [discord-esque chat website](https://github.com/r-chong/chat), [a winning hackathon submission](https://devpost.com/software/quibble-g4tmov), and various python games.
 - I'm currently learning **Java** ☕ and **Python 3** 🐍
 
