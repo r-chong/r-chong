@@ -1,9 +1,9 @@
 # Hello! 👋
 I'm Reese, a high school student from Canada.
 
-- I'm currently working on a [GPT AMA Bot](https://github.com/r-chong/GPT-Interview-Bot) using Vite, React, and the OpenAI API!
+- I'm currently working on a [hackathon project](https://github.com/m-shao/outfit-social-app) using Vite, React, and the OpenMeteo API!
 - I'm also working on a [Spotify demake](https://github.com/r-chong/spotty) using React, Node, and Express!
-- Some of my finished projects include a [discord-esque chat website](https://github.com/r-chong/chat), [a winning hackathon submission](https://devpost.com/software/quibble-g4tmov), and various [micro games](https://github.com/r-chong/TGJ3M1_ISU).
+- Some of my finished projects include a [GPT AMA Bot](https://github.com/r-chong/GPT-Interview-Bot), a [discord-esque chat website](https://github.com/r-chong/chat), [a winning hackathon submission](https://devpost.com/software/quibble-g4tmov), and various [micro games](https://github.com/r-chong/TGJ3M1_ISU).
 - I'm currently learning **React JS** ⚛️ and **Java** ☕
 
  [<img align="left" src="https://github-readme-stats.vercel.app/api?username=r-chong&show_icons=true&count_private=true&hide_border=true&theme=github_dark" width="300" />](#)
