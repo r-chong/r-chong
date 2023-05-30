@@ -1,5 +1,5 @@
 # Hello! 👋
-I'm Reese, a high school student from Canada, trying to learn and improve every single day.
+I'm Reese, a high school student from Canada who is trying to learn and improve every single day.
 
 - I'm currently working on my portfolio website!
 - Some of my finished projects include an [AI job interviewer](https://github.com/interviewgpt), a generative [choose-your-own-adventure](https://github.com/r-chong/dreamlandai), an [ask-me-anything bot](https://github.com/r-chong/GPT-AMA-Bot), a [Spotify demake](https://github.com/r-chong/spotty), two winning hackathon submissions: [Quibble](https://devpost.com/software/quibble-g4tmov) and [Outfit-Social-App](https://devpost.com/software/outfit-social-app) and a [discord-esque chat website](https://github.com/r-chong/chat)
