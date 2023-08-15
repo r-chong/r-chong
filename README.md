@@ -1,7 +1,7 @@
 # Hello! 👋
-I'm Reese, a high school student from Canada who is trying to learn and improve every single day.
+I'm Reese, a high school student from Canada who is trying to learn and improve every day.
 
-- I'm currently working on my portfolio website!
+- I'm currently working on https://lexplora.app!
 - Some of my finished projects include an [AI job interviewer](https://github.com/r-chong/interviewgpt), a generative [choose-your-own-adventure](https://github.com/r-chong/dreamlandai), an [ask-me-anything bot](https://github.com/r-chong/GPT-AMA-Bot), a [Spotify demake](https://github.com/r-chong/spotty), & three winning hackathon submissions: [JamHacks 2023](https://devpost.com/software/creative-juices-come-later), [HackBattle 2023](https://devpost.com/software/outfit-social-app), and [Recess Hacks 2022](https://devpost.com/software/quibble-g4tmov)
 - I'm currently learning **React JS** ⚛️ and **Langchain** 🦜🔗
 
