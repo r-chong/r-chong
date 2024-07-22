@@ -16,7 +16,6 @@ Recent ventures:
 |---|---|
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,python,nodejs,express,tailwind,java,firebase,mongodb,html,css&perline=18)](https://github.com/r-chong "JavaScript, TypeScript, React JS, Next JS, Python, Node, Express, Tailwind, Python, Java, Firebase, MongoDB, HTML, CSS")
-<br>
-*(Hover to see names of languages/frameworks)*
-<br><br>
+<br/>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=r-chong"/>
