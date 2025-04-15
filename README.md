@@ -1,11 +1,6 @@
 # Hello! 👋
 I'm Reese, a builder from Canada.
 
-Recent ventures:
-- Developing a RAG solution for a small-sized company
-- Research with UofT's Institute for Aerospace Studies (UTIAS)
-- Next.js full-stack at SlaySchool
-
 Project Writeups at [reesechong.com/projects](https://reesechong.com/projects)
 
 - I'm currently learning about **web testing frameworks** 🇳 and **Unity 3D** 🧊
