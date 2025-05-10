@@ -3,7 +3,7 @@ I'm Reese, a builder from Canada.
 
 Project Writeups at [reesechong.com/projects](https://reesechong.com/projects)
 
-- I'm currently learning about **web testing frameworks** 🇳 and **Unity 3D** 🧊
+- I'm currently learning React Native ⚛️
 
 |[<img align="left" src="https://github-readme-stats.vercel.app/api?username=r-chong&show_icons=true&count_private=true&hide_border=true&theme=github_dark" width="300" />](#)|[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-chong&hide_border=true&layout=compact&theme=github_dark" width="250"/>](#)
 |---|---|
