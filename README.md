@@ -3,8 +3,8 @@ I'm Reese, a builder from Canada.
 
 Project Writeups at [reesechong.com/projects](https://reesechong.com/projects)
 
-- SWE @ [Elastic Energy](https://elasticenergy.com)
-- I'm currently learning C++
+- Searching for winter internships (Jan-Apr 2026)
+- I'm currently learning Embedded C 🤖
 
 |[<img align="left" src="https://github-readme-stats.vercel.app/api?username=r-chong&show_icons=true&count_private=true&hide_border=true&theme=github_dark" width="300" />](#)|[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-chong&hide_border=true&layout=compact&theme=github_dark" width="250"/>](#)
 |---|---|
