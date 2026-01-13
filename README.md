@@ -1,7 +1,7 @@
 # Hello! 👋
 I'm Reese, like the peanut butter cups
 
-- Searching for winter internships (Jan-Apr 2026)
+- Searching for summer internships (May-Aug 2026)
 - [résumé](https://reesechong.com/resume)
 - I'm currently learning Zig 🇿
 
