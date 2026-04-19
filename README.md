@@ -3,7 +3,7 @@ I'm Reese, like the peanut butter cups
 
 - Searching for fall 2026 internships (Sept-Dec 2026)
 - [résumé](https://reesechong.com/resume)
-- I'm currently learning Zig 🇿
+- I'm currently learning Zig 🇿 and CUDA 🟩
 
 ---
 
