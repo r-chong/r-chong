@@ -1,6 +1,5 @@
 I'm Reese, like the peanut butter cups
 
-- [résumé](https://reesechong.com/resume)
 - I'm currently learning Zig 🈸 and JAX 🪁
 
 Rule #1: Don’t do nothing
