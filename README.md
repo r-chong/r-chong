@@ -1,6 +1,6 @@
 I'm Reese, like the peanut butter cups
 
-- I'm currently learning Zig 🈸 and JAX 🪁
+- I'm currently learning Vulkan 🌋
 
 Rule #1: Don’t do nothing
 <br/>
